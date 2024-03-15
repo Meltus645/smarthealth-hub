@@ -1,8 +1,11 @@
-import './App.css'
+import './App.css';
+import Layout from './layout/Layout';
 const App =() =>{
 
   return (
-    <>Hello, world</>
+    <>
+    <Layout/>
+    </>
   )
 }
 
